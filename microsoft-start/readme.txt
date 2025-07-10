@@ -14,9 +14,6 @@ MSN Partner Hub WordPress plugin is developed by Microsoft. It helps WordPress c
 ### Tell your stories with MSN
 Microsoft operates the world’s largest cross-platform service covering news, entertainment and lifestyle content. Our audience is growing, and we want to help you share your stories. Our personalized content feed is used by millions of active users each day through Windows, Bing, Edge, and MSN.
 
-**Invite Code**: Participation is limited right now while this pilot program is in the early stages. Please apply to the program by filling out our application, and we’ll notify you if your content is a good fit.
-[Apply here.](https://aka.ms/startcreating)
-
 ### How It Works
 Let us do the hard work. Automatically sync your content to our feed and benefit from our reach to attract new followers, expand your business, and get paid.
 
@@ -45,7 +42,7 @@ Data Collection. The software may collect information about you and your use of 
 
 == Frequently Asked Questions ==
 = Where can I find out more information? =
-For more information be sure to check out the [MSN Partner Help Center](https://helpcenter.microsoftstart.com)
+For more information be sure to check out the [MSN Partner Help Center](https://helpcenter.msn.com)
 
 == Changelog ==
 
